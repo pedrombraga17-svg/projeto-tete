@@ -1,5 +1,4 @@
-# projeto-tete
-teste
+
 # Atividade - Redes Sociais
 
 Este repositório contém uma página web simples em HTML5 estruturada para apresentar um estudo/reflexão sobre o impacto das redes sociais na sociedade moderna, abordando aspectos econômicos, psicológicos e estruturais.
